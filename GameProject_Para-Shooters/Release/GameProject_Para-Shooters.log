@@ -1,0 +1,20 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+  Bullet.cpp
+  Camera.cpp
+  Enemy.cpp
+  Entity.cpp
+  Gun.cpp
+  Menu.cpp
+  Player.cpp
+  Component.cpp
+  Game.cpp
+  main.cpp
+  Result.cpp
+  SpriteComponent.cpp
+  vector.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 1375 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  GameProject_Para-Shooters.vcxproj -> C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Release\GameProject_Para-Shooters.exe
