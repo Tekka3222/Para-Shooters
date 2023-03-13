@@ -1,0 +1,17 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+  Bullet.cpp
+  Camera.cpp
+  Component.cpp
+  Enemy.cpp
+  Entity.cpp
+  Game.cpp
+  Gun.cpp
+  Menu.cpp
+  Particles.cpp
+  Player.cpp
+  Result.cpp
+  SpriteComponent.cpp
+  main.cpp
+  コードを生成中...
+  GameProject_Para-Shooters.vcxproj -> C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Debug\GameProject_Para-Shooters.exe

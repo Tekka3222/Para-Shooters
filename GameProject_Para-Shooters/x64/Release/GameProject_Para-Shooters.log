@@ -1,0 +1,30 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+  Bullet.cpp
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.h(64,16): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Camera.cpp
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.h(64,16): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.cpp(462,125): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.cpp(612,37): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.cpp(628,33): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.cpp(649,34): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Enemy.cpp
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.h(64,16): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Entity.cpp
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.h(64,16): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Gun.cpp
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.h(64,16): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Player.cpp
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.h(64,16): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Component.cpp
+  Game.cpp
+C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Camera.h(64,16): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  main.cpp
+  SpriteComponent.cpp
+  vector.cpp
+  コード生成しています。
+  1116 of 1116 functions (100.0%) were compiled.
+    1089 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  GameProject_Para-Shooters.vcxproj -> C:\Users\marik\Desktop\Subject\GameProject_Para-Shooters\Release\GameProject_Para-Shooters.exe

@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tilemap/para-shooters.tmx",
+    "expandedProjectPaths": [
+    ],
+    "exportAsImage.visibleLayersOnly": false,
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 231.33333333333331,
+                "y": 149.66666666666666
+            }
+        },
+        "tilemap/para-shooters.tmx#Black": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx#Bound": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx#LBBlock": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx#LWBlock": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx#Moon1": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx#Moon2": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx#Sun1": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx#Sun2": {
+            "scaleInDock": 1
+        },
+        "tilemap/para-shooters.tmx#White": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/marik/Desktop/Game-Project_Para-Shooters/GameProject_Para-Shooters/images",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "tilemap/para-shooters.tmx"
+    ],
+    "project": "Para-Shooters-tile.tiled-project",
+    "recentFiles": [
+        "tilemap/para-shooters.tmx"
+    ],
+    "tileset.embedInMap": true
+}
